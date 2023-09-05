@@ -1,5 +1,5 @@
-<?xml version ="1.0" enconding ="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <person>
-<skill_1>hard_skills</skill_1>
-<skill_2>soft_skills</skill_2>
+<skill_one>hard_skills</skill_one>       
+<skill_two>soft_skills</skill_two>
 </person>
